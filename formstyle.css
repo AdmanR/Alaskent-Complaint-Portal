@@ -1,0 +1,54 @@
+body{
+	font-family:New Century Schoolbook,TeX Gyre Schola,serif;
+	color:black;
+	/* background-image:url(img/office4.jpg); */
+	background-color:#09021f ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    opacity: 0.9;
+}
+input{
+	background-color: transparent;
+	color: black;
+}
+
+select{
+	background-color: transparent;
+	color: black;
+}
+
+textarea{
+	background-color: transparent;
+	color: black;
+}
+
+.logo{
+    	padding: 0;
+    	margin: 0;
+}
+
+.d1{
+        width: 500px;
+        height:550px;
+        background-color: white;
+        float: center;
+        color: black;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px 15px;
+	border-style: solid;
+	border-width: 2px;
+}
+
+.sub{
+	background-color: #0d032e;
+	border-radius: 2px;
+	border: black;
+	color: white;
+	padding: 10px 24px;
+}
+
+.sub:hover{
+	background-color: #7264a1;
+	color: white;
+}
